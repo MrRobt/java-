@@ -1,0 +1,21 @@
+# Summary
+
+* [前言](README.md)
+* [基础篇](base/README.md)
+    * [计算机基础知识](base/base.md)
+    * [java基础](base/commonsense.md#)
+        * [环境的搭建](base/commonsense.md#环境搭建) 
+        * [第一个java程序](base/commonsense.md#第一个java程序)
+    * [常量](base/constant.md)
+    * [数据类型](base/type.md)
+    * [运算符](base/operator.md)
+    * [结构语句](base/construct.md)
+    * [函数](base/method.md)
+    * [数组](base/array.md)
+* [晋级篇](two/README.md)
+    * [集合](two/set.md)
+    * [面向对象](base/object.md)
+* [高级篇](three/README.md)
+* [工具篇](tools/README.md)
+* [题外话](more/READEME.md)
+

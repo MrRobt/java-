@@ -1,0 +1,53 @@
+{
+	"title" : "DJS的java笔记",
+	"description": "记录生活，充实每一天",
+    "plugins": [
+        "splitter", "back-to-top-button", "expandable-chapters-small","code","-lunr", "-search", "search-pro","-sharing", "chapter-fold","sharing-plus","klipse", "hide-element","insert-logo","custom-favicon","toc","pageview-count","tbfed-pagefooter","github","mermaid-gb3","flexible-alerts"
+    ],
+	"pluginsConfig": {
+		"favicon": "images/favicon.ico",
+		"hide-element": {
+            "elements": [".gitbook-link"]
+        },
+		"theme-default": {
+				"showLevel": true
+		},
+		
+		"insert-logo": {
+			"url": "images/favicon.ico"
+		},
+		"github": {
+            "url": "https://github.com/MrRobt"
+        },
+        "sharing": {
+           "douban": false,
+           "facebook": false,
+           "google": true,
+           "hatenaBookmark": false,
+           "instapaper": false,
+           "line": true,
+           "linkedin": true,
+           "messenger": false,
+           "pocket": false,
+           "qq": false,
+           "qzone": true,
+           "stumbleupon": false,
+           "twitter": false,
+           "viber": false,
+           "vk": false,
+           "weibo": true,
+           "whatsapp": false,
+           "all": [
+               "douban", "facebook", "google", "hatenaBookmark", 
+               "instapaper", "linkedin","twitter", "weibo", 
+               "messenger","qq", "qzone","viber","vk","weibo",
+               "pocket", "stumbleupon","whatsapp"
+           ]
+       },
+	    "tbfed-pagefooter": {
+            "copyright":"djs所有",
+            "modify_label":"该文章修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+	}
+}
